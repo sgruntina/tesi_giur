@@ -1,0 +1,127 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {italian}{}
+\babel@toc {italian}{}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Introduzione}{}{chapter*.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{I diritti della personalit\IeC {\`a}: un approfondimento necessario}{}{section*.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{I principali diritti della personalit\IeC {\`a}}{}{section*.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{La tutela dei diritti della personalit\IeC {\`a}}{}{section*.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{le tre I}{}{section*.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Teorie dei diritti della personalit\IeC {\`a}}{}{section*.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\chapternumberline {1}Il diritto all'identit\IeC {\`a} personale: nascita ed evoluzione}{1}{chapter.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.1}Il diritto all'identit\IeC {\`a} personale: una breve introduzione storica}{1}{section.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.2}Il caso Veronesi per il riconoscimento del fondamento giuridico dell'identit\IeC {\`a} personale}{3}{section.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.2.1}L'orientamento della Corte}{5}{subsection.1.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.3}Rapporti del diritto all'identit\IeC {\`a} personale con le fonti costituzionali}{7}{section.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.3.1}Confronto ed analisi dei precetti costituzionali con la tutela dell'identit\IeC {\`a} personale}{8}{subsection.1.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.3.1.1}Art. 2}{9}{subsubsection.1.3.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.3.1.2}Art. 3}{14}{subsubsection.1.3.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.3.1.3}Art. 21}{16}{subsubsection.1.3.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.3.2}L'identit\IeC {\`a} personale rispetto ai diritti all'onore e alla reputazione}{18}{subsection.1.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.4}La dottrina sull'identit\IeC {\`a} personale}{20}{section.1.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.5}Bilanciamento con i diritti di rango superiore}{22}{section.1.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.5.1}Identit\IeC {\`a} personale \textit {vs} diritto di cronaca}{24}{subsection.1.5.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.5.2}\textit {(Segue) vs} diritto di critica}{25}{subsection.1.5.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.5.3}\textit {(Segue) vs} diritto di satira}{25}{subsection.1.5.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.5.4}\textit {(Segue) vs} diritto di rielaborazione artistica}{26}{subsection.1.5.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.6}Il diritto all'identit\IeC {\`a} personale: lesione e tutela}{27}{section.1.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.6.1}Individuazione della violazione}{28}{subsection.1.6.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.6.2}Attuazione della tutela}{30}{subsection.1.6.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.7}Riconoscimento del diritto nato tramite la giurisprudenza}{33}{section.1.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\chapternumberline {2}Diritti alla riservatezza e alla \textit {privacy}}{34}{chapter.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}Diritto alla riservatezza - introduzione}{34}{section.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1.1}Identit\IeC {\`a} personale e riservatezza - analisi e parallelismi}{36}{subsection.2.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}Dottrina della riservatezza}{37}{section.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.1}Riservatezza - onore - identit\IeC {\`a} e le loro equazioni}{41}{subsection.2.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.2}Riservatezza vs Libert\IeC {\`a} di manifestazione del pensiero e vs libert\IeC {\`a} di cronaca}{42}{subsection.2.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.3}riservatezza e rapporti con artt. 14 e 15 cost.}{44}{subsection.2.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.3}riservatezza}{44}{section.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.1}Essenzialit\IeC {\`a} dell'informazione}{46}{subsection.2.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.2}tutela residuale della riservatezza}{46}{subsection.2.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.4}positivizzazione riservatezza e privacy - emersione diritto privacy pg 24 ss BILOTTA}{46}{section.2.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.5}dalla riservatezza alla privacy}{46}{section.2.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.5.1}v.identit\IeC {\`a} personale enciclopedia giuridica}{47}{subsection.2.5.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.6}ipotesi riservatezza}{61}{section.2.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.6.1}i paradossi del diritto alla privacy}{61}{subsection.2.6.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.6.2}altra sezione staccata dai paradossi}{66}{subsection.2.6.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.7}dalla privacy alla privacy informatica}{69}{section.2.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.8}privacy informatica}{75}{section.2.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.9}IL LIMITE DELLA CONTINENZA, UNA PRIMA ACCEZIONE DEL C.D. DIRITTO ALL'OBLIO (MAGARI METTERE VERSO LA FINE DEL CAPITOLO)}{77}{section.2.9}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\chapternumberline {3}Il diritto all'oblio}{80}{chapter.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}INTRODUZIONE - DIRITTO DI AVERE DIRITTI}{80}{section.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2}diritto alla protezione dei dati personali}{91}{section.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.1}protezione dati - comuni vs sensibili}{94}{subsection.3.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.3}prot. dati personali - tecnologie e diritti}{94}{section.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3.1}Applicazioni}{113}{subsection.3.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3.2}riferimenti a leggi sovranazionali}{114}{subsection.3.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.4}la giurisprudenza dal 1998 al 2018}{114}{section.3.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.5}Il caso Google Spain}{114}{section.3.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.5.1}Il fatto}{114}{subsection.3.5.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.5.2}La decisione}{115}{subsection.3.5.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.5.3}In conclusione}{115}{subsection.3.5.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.6}Dopo la Google Spain}{116}{section.3.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.6.1}Il caso Schrems}{116}{subsection.3.6.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.7}Oblio e verit\IeC {\`a}: una necessit\IeC {\`a} di bilanciamento fra il diritto di sapere e il diritto di nascondere}{116}{section.3.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Conclusioni}{119}{chapter*.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Bibliografia}{120}{chapter*.8}

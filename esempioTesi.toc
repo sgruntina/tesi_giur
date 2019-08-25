@@ -1,0 +1,34 @@
+\select@language {italian}
+\select@language {italian}
+\contentsline {chapter}{Introduzione}{}{chapter*.2}
+\contentsline {chapter}{\chapternumberline {1}Il diritto al figlio e il diritto alla vita}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Dare e ricevere la vita}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}Il concetto di "vita dignitosa"}{2}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Il suo valore all'interno della societ\IeC {\`a}}{2}{subsection.1.2.1}
+\contentsline {chapter}{\chapternumberline {2}Esiste un diritto a nascere sano?}{3}{chapter.2}
+\contentsline {section}{\numberline {2.1}\textit {Wrongful birth} e \textit {wrongful life}}{3}{section.2.1}
+\contentsline {section}{\numberline {2.2}Situazione italiana: dibattito fra laici e cattolici}{3}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Visione laica}{3}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Visione cattolica}{3}{subsection.2.2.2}
+\contentsline {section}{\numberline {2.3}Aspetti comparatistici}{3}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Giurisprudenza americana e dei paesi di common law}{3}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Giurisprudenza francese: il caso Perruche}{3}{subsection.2.3.2}
+\contentsline {chapter}{\chapternumberline {3}Responsabilit\IeC {\`a} e risarcimento}{4}{chapter.3}
+\contentsline {section}{\numberline {3.1}Responsabilit\IeC {\`a}}{4}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Responsabilit\IeC {\`a} della madre che sceglie o meno di abortire}{6}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}Responsabilit\IeC {\`a} del medico}{6}{subsection.3.1.2}
+\contentsline {subsubsection}{\numberline {3.1.2.1}Per errata diagnosi}{6}{subsubsection.3.1.2.1}
+\contentsline {subsubsection}{\numberline {3.1.2.2}Per errata comunicazione}{6}{subsubsection.3.1.2.2}
+\contentsline {section}{\numberline {3.2}Risarcimento: ammettendo l'esistenza di un diritto a nascere sano, a chi spetterebbe?}{6}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Il nato disabile}{6}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}I genitori}{6}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}I fratelli e sorelle}{6}{subsection.3.2.3}
+\contentsline {chapter}{\chapternumberline {4}Diritto a nascere sano ed eugenetica}{7}{chapter.4}
+\contentsline {section}{\numberline {4.1}La procreazione medicalmente assistita}{7}{section.4.1}
+\contentsline {section}{\numberline {4.2}La diagnosi pre-impianto}{7}{section.4.2}
+\contentsline {section}{\numberline {4.3}L'impianto esclusivo degli embrioni sani}{7}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}L'eugenetica}{7}{subsection.4.3.1}
+\contentsline {section}{\numberline {4.4}La concessione di un "diritto a nascere sano" alimenterebbe un'etica utilitaristica?}{7}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Il pericolo della ricerca di una discendenza "perfetta"}{7}{subsection.4.4.1}
+\contentsline {chapter}{Conclusioni}{8}{chapter*.3}
+\contentsline {chapter}{Bibliografia}{9}{section*.5}
