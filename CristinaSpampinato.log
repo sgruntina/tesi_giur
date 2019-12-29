@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730 64-bit) (preloaded format=pdflatex 2018.6.30)  8 SEP 2019 13:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730 64-bit) (preloaded format=pdflatex 2018.6.30)  29 DEC 2019 19:47
 entering extended mode
 **./CristinaSpampinato.tex
 (CristinaSpampinato.tex
@@ -979,7 +979,7 @@ LaTeX Info: Redefining \nameref on input line 24.
 \@outlinefile=\write5
 \openout5 = `CristinaSpampinato.out'.
 
-<figure/uniroma3-logo.pdf, id=251, 196.735pt x 109.40875pt>
+<figure/uniroma3-logo.pdf, id=243, 196.735pt x 109.40875pt>
 File: figure/uniroma3-logo.pdf Graphic file (type pdf)
 <use figure/uniroma3-logo.pdf>
 Package pdftex.def Info: figure/uniroma3-logo.pdf  used on input line 28.
@@ -997,65 +997,44 @@ l.29 \generaDedica
  the same identifier (name{page.}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.31 \section
-             {I diritti della personalit√†: un approfondimento necessario}%r...
-[3
+l.9 
+     [3
 
 ]pdfTeX warning (ext4): destination with the same identifier (name{page.}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.47 
+l.34 
       [4]pdfTeX warning (ext4): destination with the same identifier (name{page
 .}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.56 
-      [5]pdfTeX warning (ext4): destination with the same identifier (name{page
-.}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.68 
-      [6]pdfTeX warning (ext4): destination with the same identifier (name{page
-.}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.79 \section
-             {le tre I} [7]pdfTeX warning (ext4): destination with the same ide
-ntifier (name{page.}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.85 
-      [8])pdfTeX warning (ext4): destination with the same identifier (name{pag
+l.34 
+      [5])pdfTeX warning (ext4): destination with the same identifier (name{pag
 e.}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.32 \generaIndice
-                   [9]pdfTeX warning (ext4): destination with the same identifi
-er (name{page.}) has been already used, duplicate ignored
+                   [6] (CristinaSpampinato.tocpdfTeX warning (ext4): destinatio
+n with the same identifier (name{page.}) has been already used, duplicate ignor
+ed
 <to be read again> 
                    \relax 
-l.32 \generaIndice
-                   [10] (CristinaSpampinato.tocpdfTeX warning (ext4): destinati
-on with the same identifier (name{page.}) has been already used, duplicate igno
-red
+l.45 ...ramite la giurisprudenza}{32}{section.1.7}
+                                                   [7]pdfTeX warning (ext4): de
+stination with the same identifier (name{page.}) has been already used, duplica
+te ignored
 <to be read again> 
                    \relax 
-l.45 ...} diritto di satira}{26}{subsection.1.5.3}
-                                                   [11]pdfTeX warning (ext4): d
-estination with the same identifier (name{page.}) has been already used, duplic
-ate ignored
-<to be read again> 
-                   \relax 
-l.97 ...DIRITTO DI AVERE DIRITTI}{81}{section.3.1}
-                                                   [12]
-Overfull \hbox (1.88837pt too wide) detected at line 125
+l.97 ...3.5.1}Applicazioni}{113}{subsection.3.5.1}
+                                                   [8]
+Overfull \hbox (1.88837pt too wide) detected at line 121
  \T1/cmr/bx/n/10.95 120
  []
 
 
-Overfull \hbox (1.88837pt too wide) detected at line 127
- \T1/cmr/bx/n/10.95 121
+Overfull \hbox (1.88837pt too wide) detected at line 123
+ \T1/cmr/bx/n/10.95 122
  []
 
 )pdfTeX warning (ext4): destination with the same identifier (name{page.}) has 
@@ -1063,74 +1042,74 @@ been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.32 \generaIndice
-                   [13] (Capitolo1.tex [1
+                   [9] (Capitolo1.tex [1
 
 
 
 ] [2] [3] [4] [5] [6] [7] [8] [9]
-[10] [11] [12] [13] [14] [15] [16] [17] [18] [19] [20] [21]
-Underfull \hbox (badness 5607) in paragraph at lines 214--214
+[10] [11] [12] [13] [14] [15] [16] [17] [18] [19]
+Underfull \hbox (badness 5607) in paragraph at lines 226--226
 [][] [][][]\T1/cmr/m/n/9 PINO G., \T1/cmr/m/it/9 Il di-rit-to al-l'i-den-ti-t‡ 
 per-so-na-le: in-ter-pre-ta-zio-ne co-sti-tu-zio-na-le e crea-ti-vi-t‡
  []
 
-[22] [23]
-Underfull \hbox (badness 5607) in paragraph at lines 229--229
+[20] [21]
+Underfull \hbox (badness 5607) in paragraph at lines 241--241
 [][] [][][]\T1/cmr/m/n/9 PINO G., \T1/cmr/m/it/9 Il di-rit-to al-l'i-den-ti-t‡ 
 per-so-na-le: in-ter-pre-ta-zio-ne co-sti-tu-zio-na-le e crea-ti-vi-t‡
  []
 
-[24] [25] [26] [27]
-Underfull \hbox (badness 5490) in paragraph at lines 274--274
+[22] [23] [24] [25] [26]
+Underfull \hbox (badness 5490) in paragraph at lines 286--286
 [][] [][][]\T1/cmr/m/n/9 PINO G., \T1/cmr/m/it/9 Il di-rit-to al-l'i-den-ti-t‡ 
 per-so-na-le: in-ter-pre-ta-zio-ne co-sti-tu-zio-na-le e crea-ti-vi-t‡
  []
 
-[28] [29] [30] [31] [32]) [33] [34] (Capitolo2.tex [35
+[27] [28] [29] [30]) [31] [32] (Capitolo2.tex [33
 
-] [36] [37] [38] [39]
-[40] [41] [42] [43] [44] [45] [46]
-Underfull \hbox (badness 1629) in paragraph at lines 127--127
+] [34] [35] [36] [37] [38]
+[39] [40] [41] [42] [43] [44]
+Underfull \hbox (badness 1629) in paragraph at lines 128--128
 [][] [][][]\T1/cmr/m/n/9 ATELLI M., v. \T1/cmr/m/it/9 Ri-ser-va-tez-za (di-rit-
 to al-la)\T1/cmr/m/n/9 , III, in En-ci-clo-pe-dia Giu-ri-di-ca, po-stil-la di
  []
 
-[47] [48] [49] [50] [51] [52] [53] [54] [55] [56] [57] [58] [59] [60] [61]
-[62] [63] [64] [65] [66] [67] [68] [69] [70] [71] [72] [73] [74] [75] [76]
-[77] [78] [79]) [80] (Capitolo3.tex [81
+[45] [46] [47] [48] [49] [50] [51] [52] [53] [54] [55] [56] [57] [58] [59]
+[60] [61] [62] [63] [64] [65] [66] [67] [68] [69] [70] [71] [72] [73] [74]
+[75] [76]) [77] (Capitolo3.tex [78
 
-] [82] [83] [84] [85] [86] [87] [88]
-[89] [90] [91] [92] [93] [94] [95] [96] [97] [98] [99] [100] [101] [102]
-[103] [104] [105] [106] [107] [108] [109] [110] [111] [112] [113] [114]
-[115] [116] [117] [118]) [119] (conclusioni.tex) [120
+] [79] [80] [81] [82] [83] [84] [85] [86]
+[87] [88] [89] [90] [91] [92] [93] [94] [95] [96] [97] [98] [99] [100] [101]
+[102] [103] [104] [105] [106] [107] [108] [109] [110] [111] [112] [113]
+[114] [115] [116] [117] [118]) [119] (conclusioni.tex [120
 
 
-] (Bibliografia1.tex
-[121
+]) [121]
+(Bibliografia1.tex [122
 
-]) [122]
+]) [123]
 \tf@toc=\write6
 \openout6 = `CristinaSpampinato.toc'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 58.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 58.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 60.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 60.
  (CristinaSpampinato.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 58.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 58.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 60.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 60.
 Package rerunfilecheck Info: File `CristinaSpampinato.out' has not changed.
-(rerunfilecheck)             Checksum: 96381932C38706F6B2B9708478502377;5699.
+(rerunfilecheck)             Checksum: BF331D52AD0D94AD4CBB351D74B1B9B2;5520.
 Package logreq Info: Writing requests to 'CristinaSpampinato.run.xml'.
 \openout1 = `CristinaSpampinato.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 16691 strings out of 492973
- 267550 string characters out of 3126692
- 660655 words of memory out of 3000000
- 20122 multiletter control sequences out of 15000+200000
+ 16680 strings out of 492973
+ 267422 string characters out of 3126692
+ 656388 words of memory out of 3000000
+ 20120 multiletter control sequences out of 15000+200000
  21285 words of font info for 48 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 46i,11n,45p,3527b,2500s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 46i,11n,45p,3527b,2498s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\crisp\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\
 ecbi1200.pk> <C:\Users\crisp\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\
 ec\dpi600\ecbx2074.pk> <C:\Users\crisp\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour
@@ -1150,9 +1129,9 @@ ocal\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm2488.pk> <C:\Users\crisp
 \AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1728.pk> <C:\U
 sers\crisp\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1440
 .pk>
-Output written on CristinaSpampinato.pdf (135 pages, 658279 bytes).
+Output written on CristinaSpampinato.pdf (132 pages, 648115 bytes).
 PDF statistics:
- 1741 PDF objects out of 2073 (max. 8388607)
- 251 named destinations out of 1000 (max. 500000)
- 502 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1704 PDF objects out of 1728 (max. 8388607)
+ 242 named destinations out of 1000 (max. 500000)
+ 486 words of extra memory for PDF output out of 10000 (max. 10000000)
 
