@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730 64-bit) (preloaded format=pdflatex 2018.6.30)  29 DEC 2019 19:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730 64-bit) (preloaded format=pdflatex 2018.6.30)  6 JAN 2020 20:54
 entering extended mode
 **./CristinaSpampinato.tex
 (CristinaSpampinato.tex
@@ -979,7 +979,7 @@ LaTeX Info: Redefining \nameref on input line 24.
 \@outlinefile=\write5
 \openout5 = `CristinaSpampinato.out'.
 
-<figure/uniroma3-logo.pdf, id=243, 196.735pt x 109.40875pt>
+<figure/uniroma3-logo.pdf, id=231, 196.735pt x 109.40875pt>
 File: figure/uniroma3-logo.pdf Graphic file (type pdf)
 <use figure/uniroma3-logo.pdf>
 Package pdftex.def Info: figure/uniroma3-logo.pdf  used on input line 28.
@@ -997,21 +997,22 @@ l.29 \generaDedica
  the same identifier (name{page.}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.9 
-     [3
+l.13 \section
+             {Suddivisione dei capitoli}%modificare [3
 
 ]pdfTeX warning (ext4): destination with the same identifier (name{page.}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.34 
-      [4]pdfTeX warning (ext4): destination with the same identifier (name{page
-.}) has been already used, duplicate ignored
+l.13 \section
+             {Suddivisione dei capitoli}%modificare [4])pdfTeX warning (ext4): 
+destination with the same identifier (name{page.}) has been already used, dupli
+cate ignored
 <to be read again> 
                    \relax 
-l.34 
-      [5])pdfTeX warning (ext4): destination with the same identifier (name{pag
-e.}) has been already used, duplicate ignored
+l.32 \generaIndice
+                   [5]pdfTeX warning (ext4): destination with the same identifi
+er (name{page.}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.32 \generaIndice
@@ -1026,15 +1027,15 @@ stination with the same identifier (name{page.}) has been already used, duplica
 te ignored
 <to be read again> 
                    \relax 
-l.97 ...3.5.1}Applicazioni}{113}{subsection.3.5.1}
+l.93 ...i - tecnologie e diritti}{93}{section.3.5}
                                                    [8]
-Overfull \hbox (1.88837pt too wide) detected at line 121
- \T1/cmr/bx/n/10.95 120
+Overfull \hbox (1.88837pt too wide) detected at line 115
+ \T1/cmr/bx/n/10.95 119
  []
 
 
-Overfull \hbox (1.88837pt too wide) detected at line 123
- \T1/cmr/bx/n/10.95 122
+Overfull \hbox (1.88837pt too wide) detected at line 117
+ \T1/cmr/bx/n/10.95 121
  []
 
 )pdfTeX warning (ext4): destination with the same identifier (name{page.}) has 
@@ -1067,27 +1068,33 @@ per-so-na-le: in-ter-pre-ta-zio-ne co-sti-tu-zio-na-le e crea-ti-vi-tà
 
 [27] [28] [29] [30]) [31] [32] (Capitolo2.tex [33
 
-] [34] [35] [36] [37] [38]
-[39] [40] [41] [42] [43] [44]
+]
+
+Package Fancyhdr Warning: \headheight is too small (27.6pt): 
+ Make it at least 38.83672pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[34] [35] [36] [37] [38] [39] [40] [41] [42] [43]
 Underfull \hbox (badness 1629) in paragraph at lines 128--128
 [][] [][][]\T1/cmr/m/n/9 ATELLI M., v. \T1/cmr/m/it/9 Ri-ser-va-tez-za (di-rit-
 to al-la)\T1/cmr/m/n/9 , III, in En-ci-clo-pe-dia Giu-ri-di-ca, po-stil-la di
  []
 
-[45] [46] [47] [48] [49] [50] [51] [52] [53] [54] [55] [56] [57] [58] [59]
-[60] [61] [62] [63] [64] [65] [66] [67] [68] [69] [70] [71] [72] [73] [74]
-[75] [76]) [77] (Capitolo3.tex [78
+[44] [45] [46] [47] [48] [49] [50] [51] [52] [53] [54] [55] [56] [57] [58]
+[59] [60] [61] [62] [63] [64] [65] [66] [67] [68] [69] [70] [71] [72] [73]
+[74] [75]) [76] (Capitolo3.tex [77
 
-] [79] [80] [81] [82] [83] [84] [85] [86]
-[87] [88] [89] [90] [91] [92] [93] [94] [95] [96] [97] [98] [99] [100] [101]
-[102] [103] [104] [105] [106] [107] [108] [109] [110] [111] [112] [113]
-[114] [115] [116] [117] [118]) [119] (conclusioni.tex [120
+] [78] [79] [80] [81] [82] [83] [84] [85]
+[86] [87] [88] [89] [90] [91] [92] [93] [94] [95] [96] [97] [98] [99] [100]
+[101] [102] [103] [104] [105] [106] [107] [108] [109] [110] [111] [112]
+[113] [114] [115] [116] [117]) [118] (conclusioni.tex [119
 
 
-]) [121]
-(Bibliografia1.tex [122
+]) [120]
+(Bibliografia1.tex [121
 
-]) [123]
+]) [122]
 \tf@toc=\write6
 \openout6 = `CristinaSpampinato.toc'.
 
@@ -1097,28 +1104,28 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 60.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 60.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 60.
 Package rerunfilecheck Info: File `CristinaSpampinato.out' has not changed.
-(rerunfilecheck)             Checksum: BF331D52AD0D94AD4CBB351D74B1B9B2;5520.
+(rerunfilecheck)             Checksum: 9BB98E178EE9E862772EACEDB1444473;5300.
 Package logreq Info: Writing requests to 'CristinaSpampinato.run.xml'.
 \openout1 = `CristinaSpampinato.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 16680 strings out of 492973
- 267422 string characters out of 3126692
- 656388 words of memory out of 3000000
- 20120 multiletter control sequences out of 15000+200000
+ 16672 strings out of 492973
+ 267310 string characters out of 3126692
+ 658388 words of memory out of 3000000
+ 20117 multiletter control sequences out of 15000+200000
  21285 words of font info for 48 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 46i,11n,45p,3527b,2498s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 46i,11n,45p,4603b,2500s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\crisp\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\
 ecbi1200.pk> <C:\Users\crisp\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\
 ec\dpi600\ecbx2074.pk> <C:\Users\crisp\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour
-\jknappen\ec\dpi600\ecti0900.pk> <C:\Users\crisp\AppData\Local\MiKTeX\2.9\fonts
-\pk\ljfour\jknappen\ec\dpi600\ecrm0900.pk> <C:\Users\crisp\AppData\Local\MiKTeX
-\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm0600.pk> <C:\Users\crisp\AppData\Lo
-cal\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm0800.pk> <C:\Users\crisp\
-AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1440.pk> <C:\Us
-ers\crisp\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1095.
+\jknappen\ec\dpi600\ecbx1440.pk> <C:\Users\crisp\AppData\Local\MiKTeX\2.9\fonts
+\pk\ljfour\jknappen\ec\dpi600\ecbx1095.pk> <C:\Users\crisp\AppData\Local\MiKTeX
+\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecti0900.pk> <C:\Users\crisp\AppData\Lo
+cal\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm0900.pk> <C:\Users\crisp\
+AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm0600.pk> <C:\Us
+ers\crisp\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm0800.
 pk> <C:\Users\crisp\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600
 \ecrm1095.pk> <C:\Users\crisp\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen
 \ec\dpi600\ecbx2488.pk> <C:\Users\crisp\AppData\Local\MiKTeX\2.9\fonts\pk\ljfou
@@ -1129,9 +1136,9 @@ ocal\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm2488.pk> <C:\Users\crisp
 \AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1728.pk> <C:\U
 sers\crisp\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1440
 .pk>
-Output written on CristinaSpampinato.pdf (132 pages, 648115 bytes).
+Output written on CristinaSpampinato.pdf (131 pages, 647716 bytes).
 PDF statistics:
- 1704 PDF objects out of 1728 (max. 8388607)
- 242 named destinations out of 1000 (max. 500000)
- 486 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1686 PDF objects out of 1728 (max. 8388607)
+ 237 named destinations out of 1000 (max. 500000)
+ 462 words of extra memory for PDF output out of 10000 (max. 10000000)
 
