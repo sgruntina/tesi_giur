@@ -2,4 +2,10 @@ This is BibTeX, Version 0.99dThe top-level auxiliary file: CristinaSpampinato.au
 The style file: biblatex.bst
 Database file #1: CristinaSpampinato-blx.bib
 Database file #2: bibliografia.bib
+I was expecting a `,' or a `}'---line 11 of file bibliografia.bib
+ :  
+ :  title={\textit{La normativa sui dati personali: modelli di lettura e problemi esegetici} in \textit{Trattamento dei dati personali e tutela della persona}},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
 Biblatex version: 3.11
+(There was 1 error message)

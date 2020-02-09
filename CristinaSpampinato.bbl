@@ -16,29 +16,5 @@
   {}
 \endgroup
 
-\datalist[entry]{ynt/global//global/global}
-  \entry{PINO}{book}{}
-    \name{author}{1}{}{%
-      {{hash=PG}{%
-         family={Pino},
-         familyi={P\bibinitperiod},
-         given={G.},
-         giveni={G\bibinitperiod},
-      }}%
-    }
-    \list{publisher}{1}{%
-      {Il Mulino}%
-    }
-    \strng{namehash}{PG1}
-    \strng{fullhash}{PG1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{sortinit}{2}
-    \field{sortinithash}{2}
-    \field{series}{Bologna}
-    \field{title}{Il diritto all'identità personale: interpretazione
-  costituzionale e creatività giurisprudenziale}
-    \field{year}{2003}
-  \endentry
-\enddatalist
+\datalist[entry]{ynt/global//global/global}\enddatalist
 \endinput
