@@ -4,7 +4,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{Introduzione}{}{chapter*.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{L'elaborato}{}{section*.2}
+\contentsline {section}{L\IeC {\textquoteright }elaborato}{}{section*.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\chapternumberline {1}I diritti della personalit\IeC {\`a}: interpretazione costituzionale}{1}{chapter.1}
 \defcounter {refsection}{0}\relax 
