@@ -4,8 +4,6 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{Introduzione}{}{chapter*.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{L\IeC {\textquoteright }elaborato}{}{section*.2}
-\defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\chapternumberline {1}I diritti della personalit\IeC {\`a}: interpretazione costituzionale}{1}{chapter.1}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {1.1}Il diritto all'identit\IeC {\`a} personale: una breve introduzione storica}{1}{section.1.1}
@@ -82,4 +80,4 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.2.2}Oblio e verit\IeC {\`a}: una necessit\IeC {\`a} di bilanciamento fra il diritto di sapere e il diritto di nascondere}{116}{subsection.3.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Conclusioni}{118}{chapter*.3}
+\contentsline {chapter}{Conclusioni}{118}{chapter*.2}
