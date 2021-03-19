@@ -4,80 +4,62 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{Introduzione}{}{chapter*.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\chapternumberline {1}I diritti della personalit\IeC {\`a}: interpretazione costituzionale}{1}{chapter.1}
+\contentsline {chapter}{\chapternumberline {1}Creativit\IeC {\`a} giurisprudenziale: un dibattito ideologico}{1}{chapter.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.1}Il diritto all'identit\IeC {\`a} personale: una breve introduzione storica}{1}{section.1.1}
+\contentsline {section}{\numberline {1.1}Introduzione}{2}{section.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.1.1}Il <<caso Veronesi>>}{3}{subsection.1.1.1}
+\contentsline {section}{\numberline {1.2}A sostegno dell'interpretazione creativa delle corti}{2}{section.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.2}L'identit\IeC {\`a} personale e la Costituzione: similitudini e differenze}{6}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}La sentenza integrativa-creativa}{3}{subsection.1.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.2.1}Art. 2}{8}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}L'art. 12 delle \textit {Preleggi} e la discrezionalit\IeC {\`a} del giudice}{4}{subsection.1.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.2.2}Art. 3}{13}{subsection.1.2.2}
+\contentsline {subsection}{\numberline {1.2.3}A fronte di quanto affrontato, confronto tra sistemi di civil law e common law + conclusioncina del paragrafo}{6}{subsection.1.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.2.3}Art. 21}{15}{subsection.1.2.3}
+\contentsline {section}{\numberline {1.3}Contro la giurisprudenza creativa}{8}{section.1.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.3}La dottrina sull'identit\IeC {\`a} personale}{17}{section.1.3}
+\contentsline {section}{\numberline {1.4}Conclusione sull'attivit\IeC {\`a} creativa della giurisprudenza}{30}{section.1.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.4}Bilanciamento con i diritti di rango superiore}{21}{section.1.4}
+\contentsline {chapter}{\chapternumberline {2}Diritti riconosciuti come frutto della giurisprudenza creativa}{33}{chapter.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.4.1}Identit\IeC {\`a} personale \textit {vs} diritto di cronaca}{23}{subsection.1.4.1}
+\contentsline {section}{\numberline {2.1}Il diritto all'identit\IeC {\`a} personale: una breve introduzione storica}{33}{section.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.4.2}\textit {(Segue) vs} diritto di critica}{24}{subsection.1.4.2}
+\contentsline {subsection}{\numberline {2.1.1}Il <<caso Veronesi>>}{35}{subsection.2.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.4.3}\textit {(Segue) vs} diritto di satira}{25}{subsection.1.4.3}
+\contentsline {section}{\numberline {2.2}L'identit\IeC {\`a} personale e la Costituzione: similitudini e differenze}{39}{section.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.4.4}\textit {(Segue) vs} diritto di rielaborazione artistica}{25}{subsection.1.4.4}
+\contentsline {subsection}{\numberline {2.2.1}Art. 2}{40}{subsection.2.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.5}Il diritto all'identit\IeC {\`a} personale: lesione e tutela}{26}{section.1.5}
+\contentsline {subsection}{\numberline {2.2.2}Art. 3}{46}{subsection.2.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.5.1}Individuazione della violazione}{28}{subsection.1.5.1}
+\contentsline {section}{\numberline {2.3}La dottrina sull'identit\IeC {\`a} personale}{48}{section.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.5.2}Attuazione della tutela}{29}{subsection.1.5.2}
+\contentsline {section}{\numberline {2.4}Diritto alla riservatezza - introduzione}{50}{section.2.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.6}Riconoscimento del diritto nato tramite la giurisprudenza}{32}{section.1.6}
+\contentsline {section}{\numberline {2.5}IL LIMITE DELLA CONTINENZA, UNA PRIMA ACCEZIONE DEL C.D. DIRITTO ALL'OBLIO}{53}{section.2.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\chapternumberline {2}Diritto all'oblio: come \IeC {\`e} cambiata la sua interpretazione}{33}{chapter.2}
+\contentsline {section}{\numberline {2.6}NEUTRALIT\IeC {\`a} E ANONIMATO}{59}{section.2.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.1}Diritto alla riservatezza - introduzione}{33}{section.2.1}
+\contentsline {section}{\numberline {2.7}diritto alla protezione dei dati personali}{59}{section.2.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1.1}Riservatezza vs Libert\IeC {\`a} di manifestazione del pensiero e vs libert\IeC {\`a} di cronaca}{39}{subsection.2.1.1}
+\contentsline {section}{\numberline {2.8}prot. dati personali - tecnologie e diritti}{60}{section.2.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1.2}riservatezza e rapporti con artt. 14 e 15 cost.}{41}{subsection.2.1.2}
+\contentsline {chapter}{\chapternumberline {3}Il problema del bilanciamento dei diritti di creazione giurisprudenziale con il testo costituzionale}{66}{chapter.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.2}i paradossi del diritto alla privacy}{58}{section.2.2}
+\contentsline {section}{\numberline {3.1}diritti della personalit\IeC {\`a} e giornalismo}{66}{section.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.1}altra sezione staccata dai paradossi}{62}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {3.1.1}Un equilibrio stabile}{66}{subsection.3.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.3}dalla privacy alla privacy informatica}{65}{section.2.3}
+\contentsline {subsection}{\numberline {3.1.2}la sentenza e il commento di Laghezza}{68}{subsection.3.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.4}IL LIMITE DELLA CONTINENZA, UNA PRIMA ACCEZIONE DEL C.D. DIRITTO ALL'OBLIO}{74}{section.2.4}
+\contentsline {section}{\numberline {3.2}Bilanciamento con i diritti di rango superiore}{77}{section.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.5}diritto alla protezione dei dati personali}{88}{section.2.5}
+\contentsline {subsection}{\numberline {3.2.1}boh}{81}{subsection.3.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.6}prot. dati personali - tecnologie e diritti}{91}{section.2.6}
+\contentsline {subsection}{\numberline {3.2.2}Diritto all'oblio \textit {vs} diritto di critica, di satira e di rielaborazione artistica}{85}{subsection.3.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.6.1}Applicazioni}{110}{subsection.2.6.1}
+\contentsline {subsection}{\numberline {3.2.3}Bilanciamento fra diritto all'oblio e diritto di cronaca: evoluzione rispetto al bilanciamento fatto col diritto all'identit\IeC {\`a} personale}{88}{subsection.3.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.7}Il caso Google Spain}{111}{section.2.7}
+\contentsline {section}{\numberline {3.3}Legittimazione democratica e separazione dei poteri}{91}{section.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.7.1}Il fatto}{111}{subsection.2.7.1}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.7.2}La decisione}{112}{subsection.2.7.2}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.7.3}In conclusione}{112}{subsection.2.7.3}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.7.4}Il caso Schrems}{113}{subsection.2.7.4}
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\chapternumberline {3}Il problema del bilanciamento dei diritti di creazione giurisprudenziale con il testo costituzionale}{114}{chapter.3}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.1}Dopo la Google Spain}{114}{section.3.1}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.2}Bilanciare l'oblio:}{114}{section.3.2}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.1}Bilanciamento fra diritto all'oblio e diritto di cronaca: evoluzione rispetto al bilanciamento fatto col diritto all'identit\IeC {\`a} personale}{114}{subsection.3.2.1}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.2}Oblio e verit\IeC {\`a}: una necessit\IeC {\`a} di bilanciamento fra il diritto di sapere e il diritto di nascondere}{116}{subsection.3.2.2}
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Conclusioni}{118}{chapter*.2}
+\contentsline {chapter}{Conclusioni}{96}{chapter*.2}

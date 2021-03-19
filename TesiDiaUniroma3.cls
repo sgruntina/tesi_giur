@@ -48,7 +48,7 @@ sorting=ynt
 \usepackage[T1]{fontenc}
 \usepackage[utf8]{inputenc}
 % interlinea
-\linespread{1.4}
+\linespread{1.5}
 % margini (la dimensione del blocco di testo viene regolata di conseguenza)
 \setlrmarginsandblock{3.5cm}{3cm}{*}
 % profondità dell'indice (settato per stampare fino alle sottosezioni)
