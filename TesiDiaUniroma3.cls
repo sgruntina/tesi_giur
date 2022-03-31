@@ -98,11 +98,11 @@ sorting=ynt
       \vspace{10mm}
       {\Large UNIVERSIT\`A DEGLI STUDI ROMA TRE} \\
       \vspace{5mm}
-      {\LARGE Facolt\`a di Giurisprudenza} \\
+      {\LARGE Dipartimento di Giurisprudenza} \\
       {\Large Corso di Laurea in Scienze dei Servizi Giuridici} \\
-      \vspace{15mm}
-      {\LARGE Tesi Di Laurea} \\
-      \vspace{15mm}
+      \vspace{10mm}
+      {\Large Tesi Di Laurea\\in\\Filosofia del diritto} \\
+      \vspace{10mm}
       {\HUGE \@titolo} \\
       \vspace{15mm}
       {\large Laureanda \\ \textbf{\@autore} \\ Matricola \@matricola} \\
