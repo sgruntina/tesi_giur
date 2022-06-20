@@ -2,7 +2,7 @@
 \babel@toc {italian}{}
 \babel@toc {italian}{}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Introduzione}{}{chapter*.1}
+\contentsline {chapter}{Introduzione}{}{chapter*.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\chapternumberline {1}Creativit\IeC {\`a} giurisprudenziale: un dibattito ideologico}{1}{chapter.1}
 \defcounter {refsection}{0}\relax 
@@ -16,7 +16,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {1.3}Contro la giurisprudenza creativa}{6}{section.1.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.3.1}La crisi della legge}{6}{subsection.1.3.1}
+\contentsline {subsection}{\numberline {1.3.1}La crisi della legge}{7}{subsection.1.3.1}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {1.4}Orientamenti anti-positivisti: le estremizzazioni della creativit\IeC {\`a} giurisprudenziale}{9}{section.1.4}
 \defcounter {refsection}{0}\relax 
@@ -28,52 +28,56 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {1.5}Conclusione}{12}{section.1.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\chapternumberline {2}Diritti riconosciuti come frutto della giurisprudenza creativa}{13}{chapter.2}
+\contentsline {chapter}{\chapternumberline {2}Diritti riconosciuti come frutto della giurisprudenza creativa}{14}{chapter.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.1}Il diritto all'identit\IeC {\`a} personale: una breve introduzione storica}{13}{section.2.1}
+\contentsline {section}{\numberline {2.1}Il diritto all'identit\IeC {\`a} personale: una breve introduzione storica}{14}{section.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1.1}Il \textit {caso Veronesi}}{15}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.1}Il \textit {caso Veronesi}}{16}{subsection.2.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.2}L'identit\IeC {\`a} personale nel testo Costituzionale}{18}{section.2.2}
+\contentsline {section}{\numberline {2.2}L'identit\IeC {\`a} personale nel testo Costituzionale}{19}{section.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.1}Art. 2 Cost. come \textit {clausola aperta}}{18}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.1}Art. 2 Cost. come \textit {clausola aperta}}{20}{subsection.2.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.2}La teoria del carattere chiuso dell'art. 2 Cost}{19}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.2}La teoria del carattere chiuso dell'art. 2 Cost}{20}{subsection.2.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.3}La concreta applicazione della teoria}{20}{subsection.2.2.3}
+\contentsline {subsection}{\numberline {2.2.3}La concreta applicazione della teoria}{22}{subsection.2.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.3}Il diritto all'oblio}{22}{section.2.3}
+\contentsline {section}{\numberline {2.3}Il diritto all'oblio}{24}{section.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.3.1}L'esigenza di un diritto a tutela del ricordo}{22}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.1}Un diritto a tutela del ricordo}{25}{subsection.2.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.3.2}Ombra del tempo il diritto all'oblio}{23}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.2}Il ruolo del tempo nel diritto all'oblio}{25}{subsection.2.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.3.3}Presupposti oblio}{24}{subsection.2.3.3}
+\contentsline {subsection}{\numberline {2.3.3}I presupposti per la tutela del diritto all'oblio}{26}{subsection.2.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.3.4}il resto}{25}{subsection.2.3.4}
+\contentsline {chapter}{\chapternumberline {3}Pro e contro della giurisprudenza creativa: argomentazioni e antinomie}{28}{chapter.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\chapternumberline {3}Il problema del bilanciamento dei diritti di creazione giurisprudenziale con il testo costituzionale}{27}{chapter.3}
+\contentsline {section}{\numberline {3.1}Il problema del bilanciamento nelle corti fra diritti di pari dignit\IeC {\`a} costituzionale}{28}{section.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.0.1}Un equilibrio stabile}{28}{subsection.3.0.1}
+\contentsline {subsection}{\numberline {3.1.1}Art. 21}{29}{subsection.3.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.0.2}la sentenza e il commento di Laghezza}{29}{subsection.3.0.2}
+\contentsline {section}{\numberline {3.2}Bilanciamento fra diritto all'oblio e diritto di cronaca}{30}{section.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.1}Bilanciamento con i diritti di rango superiore}{38}{section.3.1}
+\contentsline {subsection}{\numberline {3.2.1}L'attualit\IeC {\`a} della notizia}{31}{subsection.3.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1.1}boh}{42}{subsection.3.1.1}
+\contentsline {section}{\numberline {3.3}La dinamicit\IeC {\`a} del bilanciamento fra cronaca e oblio: una questione non solo temporale}{32}{section.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1.2}PERON}{46}{subsection.3.1.2}
+\contentsline {subsection}{\numberline {3.3.1}Il caso della reiterazione della pubblicazione}{33}{subsection.3.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1.3}Diritto all'oblio \textit {vs} diritto di critica, di satira e di rielaborazione artistica}{58}{subsection.3.1.3}
+\contentsline {subsection}{\numberline {3.3.2}Il corretto esercizio del diritto di cronaca}{34}{subsection.3.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1.4}Bilanciamento fra diritto all'oblio e diritto di cronaca: evoluzione rispetto al bilanciamento fatto col diritto all'identit\IeC {\`a} personale}{62}{subsection.3.1.4}
+\contentsline {subsection}{\numberline {3.3.3}Bilanciare con l'avvento delle nuove tecnologie}{34}{subsection.3.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.2}Legittimazione democratica e separazione dei poteri}{64}{section.3.2}
+\contentsline {chapter}{\chapternumberline {4}Legittimazione democratica e separazione dei poteri: questioni sulla creativit\IeC {\`a} giurisprudenziale}{37}{chapter.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.1}Legittimazione democratica e separazione dei poteri: gli equivoci che portano molti a vedere la giurisprudenza come creativa "in senso forte"}{64}{subsection.3.2.1}
+\contentsline {section}{\numberline {4.1}La separazione dei poteri}{37}{section.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.2}Parte finale del paragrafo}{68}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {4.1.1}L'equivoco del precedente giurisprudenziale}{38}{subsection.4.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.3}Paragrafo Pino Pardolesi}{73}{section.3.3}
+\contentsline {section}{\numberline {4.2}Legittimazione democratica}{39}{section.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Conclusioni}{84}{chapter*.2}
+\contentsline {subsection}{\numberline {4.2.1}Il consenso sociale}{39}{subsection.4.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.3}Il labirinto della creativit\IeC {\`a} nelle aule giudiziarie}{40}{section.4.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Conclusioni}{42}{chapter*.3}
