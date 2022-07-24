@@ -52,7 +52,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\chapternumberline {3}Pro e contro della giurisprudenza creativa: argomentazioni e antinomie}{28}{chapter.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.1}Il problema del bilanciamento nelle corti fra diritti di pari dignit\IeC {\`a} costituzionale}{28}{section.3.1}
+\contentsline {section}{\numberline {3.1}Il bilanciamento: cos'\IeC {\`e} e quando \IeC {\`e} necessario}{28}{section.3.1}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.1.1}Art. 21}{29}{subsection.3.1.1}
 \defcounter {refsection}{0}\relax 
@@ -62,11 +62,11 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3.3}La dinamicit\IeC {\`a} del bilanciamento fra cronaca e oblio: una questione non solo temporale}{32}{section.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.1}Il caso della reiterazione della pubblicazione}{33}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.1}Il caso della reiterazione della pubblicazione}{34}{subsection.3.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.2}Il corretto esercizio del diritto di cronaca}{34}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.2}Il corretto esercizio del diritto di cronaca}{35}{subsection.3.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.3}Bilanciare con l'avvento delle nuove tecnologie}{34}{subsection.3.3.3}
+\contentsline {subsection}{\numberline {3.3.3}Difficolt\IeC {\`a} nel bilanciare in relazione alle nuove tecnologie}{35}{subsection.3.3.3}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\chapternumberline {4}Legittimazione democratica e separazione dei poteri: questioni sulla creativit\IeC {\`a} giurisprudenziale}{37}{chapter.4}
 \defcounter {refsection}{0}\relax 
@@ -74,7 +74,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {4.1.1}L'equivoco del precedente giurisprudenziale}{38}{subsection.4.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.2}Legittimazione democratica}{39}{section.4.2}
+\contentsline {section}{\numberline {4.2}Legittimazione democratica}{38}{section.4.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {4.2.1}Il consenso sociale}{39}{subsection.4.2.1}
 \defcounter {refsection}{0}\relax 
