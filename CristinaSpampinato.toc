@@ -28,9 +28,9 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {1.5}Conclusione}{12}{section.1.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\chapternumberline {2}Diritti riconosciuti come frutto della giurisprudenza creativa}{14}{chapter.2}
+\contentsline {chapter}{\chapternumberline {2}Interpretazione \textit {creativa} e bilanciamento come modalit\IeC {\`a} di tutela dei c.d. \textit {nuovi diritti}}{14}{chapter.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.1}Il diritto all'identit\IeC {\`a} personale: una breve introduzione storica}{14}{section.2.1}
+\contentsline {section}{\numberline {2.1}Il diritto all'identit\IeC {\`a} personale: una breve introduzione storica}{15}{section.2.1}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.1.1}Il \textit {caso Veronesi}}{16}{subsection.2.1.1}
 \defcounter {refsection}{0}\relax 
@@ -38,7 +38,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.2.1}Art. 2 Cost. come \textit {clausola aperta}}{20}{subsection.2.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.2}La teoria del carattere chiuso dell'art. 2 Cost}{20}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.2}La teoria del carattere chiuso dell'art. 2 Cost}{21}{subsection.2.2.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.2.3}La concreta applicazione della teoria}{22}{subsection.2.2.3}
 \defcounter {refsection}{0}\relax 
@@ -48,36 +48,30 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.3.2}Il ruolo del tempo nel diritto all'oblio}{25}{subsection.2.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.3.3}I presupposti per la tutela del diritto all'oblio}{26}{subsection.2.3.3}
+\contentsline {subsection}{\numberline {2.3.3}I presupposti per la tutela del diritto all'oblio}{27}{subsection.2.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\chapternumberline {3}Pro e contro della giurisprudenza creativa: argomentazioni e antinomie}{28}{chapter.3}
+\contentsline {section}{\numberline {2.4}Il bilanciamento: cos'\IeC {\`e} e quando \IeC {\`e} necessario}{28}{section.2.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.1}Il bilanciamento: cos'\IeC {\`e} e quando \IeC {\`e} necessario}{28}{section.3.1}
+\contentsline {subsection}{\numberline {2.4.1}Art. 21}{29}{subsection.2.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1.1}Art. 21}{29}{subsection.3.1.1}
+\contentsline {section}{\numberline {2.5}Bilanciamento fra diritto all'oblio e diritto di cronaca}{29}{section.2.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.2}Bilanciamento fra diritto all'oblio e diritto di cronaca}{30}{section.3.2}
+\contentsline {subsection}{\numberline {2.5.1}L'attualit\IeC {\`a} della notizia}{30}{subsection.2.5.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.1}L'attualit\IeC {\`a} della notizia}{31}{subsection.3.2.1}
+\contentsline {section}{\numberline {2.6}La dinamicit\IeC {\`a} del bilanciamento fra cronaca e oblio: una questione non solo temporale}{32}{section.2.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.3}La dinamicit\IeC {\`a} del bilanciamento fra cronaca e oblio: una questione non solo temporale}{32}{section.3.3}
+\contentsline {subsection}{\numberline {2.6.1}Il caso della reiterazione della pubblicazione}{33}{subsection.2.6.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.1}Il caso della reiterazione della pubblicazione}{34}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {2.6.2}Il corretto esercizio del diritto di cronaca}{34}{subsection.2.6.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.2}Il corretto esercizio del diritto di cronaca}{35}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {2.6.3}Difficolt\IeC {\`a} nel bilanciare in relazione alle nuove tecnologie}{35}{subsection.2.6.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.3}Difficolt\IeC {\`a} nel bilanciare in relazione alle nuove tecnologie}{35}{subsection.3.3.3}
+\contentsline {chapter}{\chapternumberline {3}Legittimazione democratica e separazione dei poteri: questioni sulla creativit\IeC {\`a} giurisprudenziale}{37}{chapter.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\chapternumberline {4}Legittimazione democratica e separazione dei poteri: questioni sulla creativit\IeC {\`a} giurisprudenziale}{37}{chapter.4}
+\contentsline {section}{\numberline {3.1}La separazione dei poteri}{37}{section.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.1}La separazione dei poteri}{37}{section.4.1}
+\contentsline {subsection}{\numberline {3.1.1}Contraddizioni teoriche e possibili soluzioni}{39}{subsection.3.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.1.1}L'equivoco del precedente giurisprudenziale}{38}{subsection.4.1.1}
+\contentsline {section}{\numberline {3.2}Il labirinto della creativit\IeC {\`a} nelle aule giudiziarie}{41}{section.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.2}Legittimazione democratica}{38}{section.4.2}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.2.1}Il consenso sociale}{39}{subsection.4.2.1}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.3}Il labirinto della creativit\IeC {\`a} nelle aule giudiziarie}{40}{section.4.3}
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Conclusioni}{42}{chapter*.3}
+\contentsline {chapter}{Conclusioni}{43}{chapter*.3}
